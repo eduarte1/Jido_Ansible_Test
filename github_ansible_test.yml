@@ -4,4 +4,4 @@
   tasks:
     - name: Hello Message
       debug:
-        msg: "Hello Ansible Tower!! Success!! I've executed Ansible Enterprise Template from githug (Non-enterprise project) I can run malicious scripts muahahahaha!!"
+        msg: "Hello Ansible Tower!! Success!! I've executed Ansible Enterprise Template from github (Non-enterprise project) I can run malicious scripts muahahahaha!!"
