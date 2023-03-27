@@ -1,0 +1,7 @@
+
+- name: Hello World Sample
+  hosts: all
+  tasks:
+    - name: Hello Message
+      debug:
+        msg: "Hello Ansible Tower!! Success!! I've executed Ansible Enterprise Template from githug (Non-enterprise project) I can run malicious scripts muahahahaha!!"
