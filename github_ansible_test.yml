@@ -1,5 +1,5 @@
 
-- name: github ansible test
+- name: Hello Message
   hosts: all
   tasks:
     - name: Hello Message
